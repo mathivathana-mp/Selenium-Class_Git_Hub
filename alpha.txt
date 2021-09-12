@@ -1,2 +1,4 @@
 this is my alpha code - written by mathi
 edited from git hub
+
+fixed defect 123 by mathivathana
